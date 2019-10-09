@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726519212013",
+    "firebase_url": "https://mobimart-d803f.firebaseio.com",
+    "project_id": "mobimart-d803f",
+    "storage_bucket": "mobimart-d803f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726519212013:android:de718ce5841a8f46eee9e4",
+        "android_client_info": {
+          "package_name": "lk.axres.mobimart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726519212013-j8qmqs452hs2tfhjcafkdousb2b7jg8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.axres.mobimart",
+            "certificate_hash": "e6c0aed2dce3aaaa6914066eb801ef7666093206"
+          }
+        },
+        {
+          "client_id": "726519212013-v4ba2ooh3cnrtnpbip0q3dagr41bgmnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKZHoYLNUKbFg5COnKYReFLP2Sok7yefU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726519212013-v4ba2ooh3cnrtnpbip0q3dagr41bgmnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
